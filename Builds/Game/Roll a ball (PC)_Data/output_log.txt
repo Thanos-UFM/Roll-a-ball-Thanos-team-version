@@ -1,0 +1,65 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2100 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Abner\Documents\Roll a ball\Builds\Game\Roll a ball (PC)_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Abner\Documents\Roll a ball\Builds\Game\Roll a ball (PC)_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Abner\Documents\Roll a ball\Builds\Game\Roll a ball (PC)_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Abner\Documents\Roll a ball\Builds\Game\Roll a ball (PC)_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Abner\Documents\Roll a ball\Builds\Game\Roll a ball (PC)_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Abner\Documents\Roll a ball\Builds\Game\Roll a ball (PC)_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Abner\Documents\Roll a ball\Builds\Game\Roll a ball (PC)_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Abner\Documents\Roll a ball\Builds\Game\Roll a ball (PC)_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.075 seconds
+Platform assembly: C:\Users\Abner\Documents\Roll a ball\Builds\Game\Roll a ball (PC)_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Abner\Documents\Roll a ball\Builds\Game\Roll a ball (PC)_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.847787 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 7d40 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.747416 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 196.
+Total: 0.272640 ms (FindLiveObjects: 0.017920 ms CreateObjectMapping: 0.026880 ms MarkObjects: 0.214613 ms  DeleteObjects: 0.011946 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.927573 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 218.
+Total: 0.457386 ms (FindLiveObjects: 0.026453 ms CreateObjectMapping: 0.023893 ms MarkObjects: 0.384853 ms  DeleteObjects: 0.020480 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.410026 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 393.
+Total: 0.298240 ms (FindLiveObjects: 0.032426 ms CreateObjectMapping: 0.032853 ms MarkObjects: 0.217173 ms  DeleteObjects: 0.014933 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.259520 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 212.
+Total: 0.308906 ms (FindLiveObjects: 0.020480 ms CreateObjectMapping: 0.010240 ms MarkObjects: 0.183466 ms  DeleteObjects: 0.094293 ms)
+
+The referenced script on this Behaviour (Game Object 'Main Camera') is missing!
+ 
+(Filename:  Line: 1656)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.299200 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 394.
+Total: 0.478293 ms (FindLiveObjects: 0.044800 ms CreateObjectMapping: 0.035413 ms MarkObjects: 0.373333 ms  DeleteObjects: 0.023040 ms)
+
